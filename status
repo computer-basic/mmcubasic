@@ -1,7 +1,7 @@
 {
     "title": "Hello",
     "message": "new udpate!! update now",
-    "version": "2",
+    "version": "1.0",
     "show": true,
     "force": true,
     "url": "https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en",
