@@ -280,5 +280,11 @@
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Youtube.pdf",
         "size": "7.83 MB",
         "icon": "https://i.imgur.com/WmJ3b9Z.jpg"
+    },
+    {
+        "name": "MS Office Short Cut",
+        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/MS%20Office%20Short%20Cut.pdf",
+        "size": "926 KB",
+        "icon": "https://i.imgur.com/WmJ3b9Z.jpg"
     }
 ]
