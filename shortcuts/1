@@ -1,0 +1,22 @@
+{
+    "first": [
+        {
+            "key": "Ctrl+Esc",
+            "action": "Open the Start menu."
+        },
+        {
+            "key": "Ctrl+Esc",
+            "action": "Open the Start menu."
+        }
+    ],
+    "second": [
+        {
+            "key": "Ctrl+Esc",
+            "action": "Open the Start menu."
+        },
+        {
+            "key": "Ctrl+Esc",
+            "action": "Open the Start menu."
+        }
+    ]
+}
