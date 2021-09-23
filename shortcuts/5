@@ -108,7 +108,7 @@
         },
         {
             "key": "Alt + Q",
-            "action": "Directs to the “Tell me what you want to do” box"
+            "action": "Directs to the Tell me what you want to do box"
         }
     ]
 }
