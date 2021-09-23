@@ -1,16 +1,28 @@
 {
     "first": [
         {
-            "key": "Ctrl + Z",
-            "action": "Undo"
-        },
-        {
             "key": "Ctrl + A",
             "action": "Select All"
         },
         {
             "key": "Ctrl + C",
             "action": "Copy"
+        },
+        {
+            "key": "Ctrl + E",
+            "action": "Select the Search Box"
+        },
+        {
+            "key": "Ctrl + F",
+            "action": "Find"
+        },
+        {
+            "key": "Ctrl + H",
+            "action": "Find and Replace"
+        },
+        {
+            "key": "Ctrl + N",
+            "action": "Open a New Window"
         },
         {
             "key": "Ctrl + V",
@@ -21,38 +33,26 @@
             "action": "Cut"
         },
         {
-            "key": "Alt + Tab",
-            "action": "Switch Screen/Tabs"
-        },
-        {
-            "key": "Ctrl + Alt + Del",
-            "action": "Start Task Manager"
-        },
-        {
-            "key": "Alt + F4",
-            "action": "Close App"
-        },
-        {
-            "key": "Ctrl + F",
-            "action": "Find"
-        },
-        {
-            "key": "Ctrl + H",
-            "action": "Find and Replace"
-        }
-    ],
-    "second": [
-        {
-            "key": "Ctrl + E",
-            "action": "Select the Search Box"
-        },
-        {
-            "key": "Ctrl + N",
-            "action": "Open a New Window"
+            "key": "Ctrl + Z",
+            "action": "Undo"
         },
         {
             "key": "Ctrl + Mouse Scroll Wheel",
             "action": "Zoom In/Out"
+        },
+        {
+            "key": "Ctrl + Alt + Del",
+            "action": "Start Task Manager"
+        }
+    ],
+    "second": [
+        {
+            "key": "Alt + Tab",
+            "action": "Switch Screen/Tabs"
+        },
+        {
+            "key": "Alt + F4",
+            "action": "Close App"
         },
         {
             "key": "Win + L",
