@@ -105,10 +105,6 @@
         {
             "key": "Alt + Y",
             "action": "Go to the Help tab"
-        },
-        {
-            "key": "Alt + Q",
-            "action": "Directs to the Tell me what you want to do box"
         }
     ]
 }
