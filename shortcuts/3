@@ -71,7 +71,7 @@
             "action": "Underline"
         },
         {
-            "key": "Ctrl + Shift+L",
+            "key": "Ctrl + Shift + L",
             "action": "Bulleted list"
         },
         {
