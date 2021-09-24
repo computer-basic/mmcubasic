@@ -1,6 +1,10 @@
 {
     "first": [
         {
+            "key": "A",
+            "action": "Record Audio"
+        },
+        {
             "key": "P",
             "action": "Launch Pen Tool"
         },
@@ -11,14 +15,6 @@
         {
             "key": "V",
             "action": "Launch Selection Tool"
-        },
-        {
-            "key": "Shift + H",
-            "action": "Hover Scrub"
-        },
-        {
-            "key": "Shift + O",
-            "action": "Open in Source Monitor"
         },
         {
             "key": "V",
@@ -33,12 +29,8 @@
             "action": "Stop Capture"
         },
         {
-            "key": "A",
-            "action": "Record Audio"
-        },
-        {
-            "key": "Control + Alt + T",
-            "action": "Show / Hide Tracks"
+            "key": "Spacebar",
+            "action": "Quick Play"
         },
         {
             "key": "F5",
@@ -46,18 +38,6 @@
         }
     ],
     "second": [
-        {
-            "key": "Spacebar",
-            "action": "Quick Play"
-        },
-        {
-            "key": "Shift + K",
-            "action": "Play - Around (plays preset before and after time)"
-        },
-        {
-            "key": "Control + Shift + Space",
-            "action": "Play - In to Out"
-        },
         {
             "key": "Alt + =",
             "action": "Audio track height increase"
@@ -67,12 +47,16 @@
             "action": "Audio track height decrase"
         },
         {
-            "key": "Control + L",
-            "action": "Play media as a loop"
+            "key": "Control + Shift + Space",
+            "action": "Play - In to Out"
         },
         {
-            "key": "Shift + \\",
-            "action": "Toggle Project Panel Review"
+            "key": "Control + Alt + T",
+            "action": "Show / Hide Tracks"
+        },
+        {
+            "key": "Control + L",
+            "action": "Play media as a loop"
         },
         {
             "key": "Control + Alt + 0",
@@ -85,6 +69,22 @@
         {
             "key": "Ctrl + `",
             "action": "Toogle Full Screen"
+        },
+        {
+            "key": "Shift + H",
+            "action": "Hover Scrub"
+        },
+        {
+            "key": "Shift + O",
+            "action": "Open in Source Monitor"
+        },
+        {
+            "key": "Shift + K",
+            "action": "Play - Around (plays preset before and after time)"
+        },
+        {
+            "key": "Shift + \\",
+            "action": "Toggle Project Panel Review"
         },
         {
             "key": "Shift + 0",
