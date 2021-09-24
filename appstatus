@@ -1,8 +1,8 @@
 {
     "title": "New Update!!",
     "message": "New Update is available. Update",
-    "negative": "Cancel",
-    "positive": "Update",
+    "negative": "Direct Link",
+    "positive": "Play Store",
     "show": true,
     "force": true,
     "type": "update",
