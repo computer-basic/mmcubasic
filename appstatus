@@ -4,7 +4,7 @@
     "negative": "Direct Link",
     "positive": "Play Store",
     "show": true,
-    "force": true,
+    "force": false,
     "type": "update",
     "url": "https://play.google.com/store/apps/details?id=com.computerbasic.myanmar",
     "directUrl": "https://play.google.com/store/apps/details?id=itsmcqsapp.com.computerscience",
