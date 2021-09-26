@@ -1,13 +1,13 @@
 {
-    "title": "New Update!!",
-    "message": "New Update is available. Update",
-    "negative": "Direct Link",
-    "positive": "Play Store",
-    "show": false,
+    "title": "Facebook Page!!",
+    "message": "Please like and follow our Facebook page to connect us. ",
+    "negative": "Cancel",
+    "positive": "Follow",
+    "show": true,
     "force": false,
-    "type": "updat",
-    "url": "https://play.google.com/store/apps/details?id=com.computerbasic.myanmar",
+    "type": "update",
+    "url": "https://www.facebook.com/Myanmar-Computer-Basic-104763981285569",
     "directUrl": "https://play.google.com/store/apps/details?id=itsmcqsapp.com.computerscience",
     "version": "2.0",
-    "icon":""
+    "icon":"https://i.imgur.com/sH7U9q4.png"
 }
