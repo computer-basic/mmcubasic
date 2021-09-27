@@ -19,7 +19,9 @@
         {
             "key": "Ctrl + 4",
             "action": "Sheet Set Palette"
-        },
+        }
+    ],
+    "second": [
         {
             "key": "Ctrl + 6",
             "action": "DBConnect Manager"
@@ -35,9 +37,7 @@
         {
             "key": "Ctrl + 9",
             "action": "Command Line"
-        }
-    ],
-    "second": [
+        },
         {
             "key": "Ctrl + E",
             "action": "Cycle isometric planes"
