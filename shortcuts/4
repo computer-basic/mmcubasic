@@ -19,7 +19,9 @@
         {
             "key": "Ctrl + V",
             "action": "Paste"
-        },
+        }
+    ],
+    "second": [
         {
             "key": "Ctrl + Z",
             "action": "Undo"
@@ -39,9 +41,7 @@
         {
             "key": "Ctrl + 0",
             "action": "Hide the selected columns"
-        }
-    ],
-    "second": [
+        },
         {
             "key": "Alt + H",
             "action": "Go to the Home tab"
