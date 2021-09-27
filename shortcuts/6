@@ -19,7 +19,9 @@
         {
             "key": "Ctrl + D",
             "action": "Deselect"
-        },
+        }
+    ],
+    "second": [
         {
             "key": "Ctrl + E",
             "action": "Merge Layers"
@@ -47,14 +49,11 @@
         {
             "key": "Ctrl + T",
             "action": "Free Transform"
-        }
-    ],
-    "second": [
+        },
         {
             "key": "Caps Lock",
             "action": "Toggle Cross Hairs"
         },
-       
         {
             "key": "Ctrl + Alt + Z",
             "action": "Step Back"
