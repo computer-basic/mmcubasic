@@ -17,15 +17,11 @@
             "action": "Launch Selection Tool"
         },
         {
-            "key": "V",
-            "action": "Video Recording"
+            "key": "R",
+            "action": "Rewind Capture"
         }
     ],
     "second": [
-        {
-            "key": "R",
-            "action": "Rewind Capture"
-        },
         {
             "key": "S",
             "action": "Stop Capture"
