@@ -15,7 +15,9 @@
         {
             "key": "Ctrl + W",
             "action": "Close a presentation"
-        },
+        }
+    ],
+    "second": [
         {
             "key": "Ctrl + Q",
             "action": "Save and close a presentation"
@@ -43,9 +45,7 @@
         {
             "key": "Ctrl + F",
             "action": "Search in a presentation or use Find and Replace"
-        }
-    ],
-    "second": [
+        },
         {
             "key": "F1",
             "action": "Open the Help pane"
