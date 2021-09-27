@@ -19,7 +19,9 @@
         {
             "key": "Right Arrow",
             "action": "Right one character"
-        },
+        }
+    ],
+    "second": [
         {
             "key": "Left Arrow",
             "action": "Left one character"
@@ -39,9 +41,7 @@
         {
             "key": "Down Arrow",
             "action": "Down one line"
-        }
-    ],
-    "second": [
+        },
         {
             "key": "Ctrl + Up Arrow",
             "action": "Up one paragraph"
