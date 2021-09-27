@@ -19,7 +19,9 @@
         {
             "key": "Ctrl + 4",
             "action": "400 % of the page"
-        },
+        }
+    ],
+    "second": [
         {
             "key": "Ctrl + 5",
             "action": "500% of the page"
@@ -35,9 +37,7 @@
         {
             "key": "Ctrl + 7",
             "action": "75% of the page"
-        }
-    ],
-    "second": [
+        },
         {
             "key": "Ctrl + A",
             "action": "Select all in the page"
