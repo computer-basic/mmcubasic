@@ -19,7 +19,9 @@
         {
             "key": "V",
             "action": "Video Recording"
-        },
+        }
+    ],
+    "second": [
         {
             "key": "R",
             "action": "Rewind Capture"
@@ -35,9 +37,7 @@
         {
             "key": "F5",
             "action": "Capture Footage"
-        }
-    ],
-    "second": [
+        },
         {
             "key": "Alt + =",
             "action": "Audio track height increase"
