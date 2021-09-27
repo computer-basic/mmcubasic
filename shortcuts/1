@@ -19,7 +19,9 @@
         {
             "key": "Ctrl + H",
             "action": "Find and Replace"
-        },
+        }
+    ],
+    "second": [
         {
             "key": "Ctrl + N",
             "action": "Open a New Window"
@@ -43,9 +45,7 @@
         {
             "key": "Ctrl + Alt + Del",
             "action": "Start Task Manager"
-        }
-    ],
-    "second": [
+        },
         {
             "key": "Alt + Tab",
             "action": "Switch Screen/Tabs"
