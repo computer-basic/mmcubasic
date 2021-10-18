@@ -1,13 +1,13 @@
 {
     "title": "New App Update!!",
-    "message": "Play Store မှအဖြုတ်ခံလိုက်ရသောကြောင့် Computer Basic V2 App အသစ်ကိုပြောင်းအသုံးပြုပေးပါခင်ဗျ သင်ခန်းစာအသစ်များနဲ့ အခြား function အသစ်များပါဝင်သော new app update ကိုရယူနိုင်ပါပြီ App အသစ်အားရယူပြီးပါက ယခု app အားဖျက်နိုင်ပါပြီ",
+    "message": "သင်ခန်းစာ Video များကို Download ဆွဲနိုင်သော new app update V3 ကိုရယူနိုင်ပါပြီ App အသစ်အားရယူပြီးပါက ယခု app အားဖျက်နိုင်ပါပြီ",
     "negative": "Direct Download",
     "positive": "Play Store",
     "show": true,
     "force": true,
     "type": "update",
-    "url": "https://play.google.com/store/apps/details?id=com.myanmar.computerbasic.v2",
-    "directUrl": "https://www.mediafire.com/file/fj8cn25mtqiq3nc/Myanmar%252BComputer%252BBasic%252BV2.apk/file",
-    "version": "2.0",
-    "icon":"https://i.imgur.com/X5dxfQM.png"
+    "url": "https://play.google.com/store/apps/details?id=com.myanmar.computerbasic.v3",
+    "directUrl": "https://bit.ly/2Z4ZPvW",
+    "version": "၃.0",
+    "icon":"https://i.imgur.com/0MiLdSb.png"
 }
