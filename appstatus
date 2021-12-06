@@ -1,13 +1,13 @@
 {
     "title": "New App Update!!",
-    "message": "သင်ခန်းစာ Video များကို Download ဆွဲနိုင်သော new app update V3 ကိုရယူနိုင်ပါပြီ App အသစ်အားရယူပြီးပါက ယခု app အားဖျက်နိုင်ပါပြီ",
+    "message": "Myanmar Computer Basic အားအစအဆုံးအသစ်ပြန်လည်ရေးဆွဲထားသော app အသစ် MM Computer Guide App အားရယူနိုင်ပါပြီ",
     "negative": "Direct Download",
     "positive": "Play Store",
     "show": true,
     "force": true,
     "type": "update",
-    "url": "https://play.google.com/store/apps/details?id=com.myanmar.computerbasic.v3",
-    "directUrl": "https://www.mediafire.com/file/h504cj6m1zesvy7/Myanmar%252BComputer%252BBasic%252BV3.apk/file",
+    "url": "https://play.google.com/store/apps/details?id=com.computeguide",
+    "directUrl": "https://www.mediafire.com/file/9k1ksl4w1gxture/MM_Computer_Guide.apk/file",
     "version": "3.0",
-    "icon":"https://i.imgur.com/0MiLdSb.png"
+    "icon":"https://i.imgur.com/xbOiFNC.png"
 }
